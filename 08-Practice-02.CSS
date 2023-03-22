@@ -1,0 +1,30 @@
+body{
+
+font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+nav.menu{
+    text-align: center;
+    background-color: darkgrey;
+    width: 150px;
+
+
+}
+.active{
+   background-color: black;
+   color: white; /* color:white ; etki etmez cunku Ana Sayfa yazisi a taginin icindedir. */
+
+}
+a.link{
+color: white;
+
+}
+a{
+ text-decoration: none;  
+ color: black; 
+}
+div{
+    margin: 10px;
+}

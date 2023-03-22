@@ -1,0 +1,22 @@
+p{
+    color: brown;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+h1{
+text-align: center;
+color: blueviolet;
+
+}
+
+
+a{
+    text-decoration: none; /* Linklerin altindaki cizgiyi yok ettik. Shift+Alt+A ile bu aciklama kismini otomatik actim */
+}
+
+
+
+
+
